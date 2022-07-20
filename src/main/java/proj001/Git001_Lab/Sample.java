@@ -1,0 +1,10 @@
+package proj001.Git001_Lab;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Welcome to Git and Github...");
+	}
+
+}
